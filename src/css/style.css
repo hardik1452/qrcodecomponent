@@ -1,5 +1,5 @@
 .attribution {
-  font-size: 11px;
+  font-size: 0.68rem;
   text-align: center;
 }
 
@@ -18,12 +18,12 @@ body {
   background-color: #d5e1ef;
 }
 .container {
-  max-width: 250px;
+  max-width: 15.625rem;
   height: min-content;
   justify-content: center;
   align-items: center;
-  border-radius: 15px;
-  padding: 15px;
+  border-radius: 0.938rem;
+  padding: 0.938rem;
   background-color: #fff;
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
 }
@@ -33,22 +33,22 @@ body {
 
 h3 {
   font-weight: 700;
-  font-size: 20px;
+  font-size: 1.25rem;
 }
 p {
   font-weight: 400;
   color: #9a9ea8;
-  font-size: 14px;
+  font-size: 0.875rem;
 }
 
 .cardpic {
   width: 100%;
-  max-width: 250px;
-  max-height: 250px;
-  border-radius: 15px;
+  max-width: 15.625rem;
+  max-height: 15.625rem;
+  border-radius: 0.9rem;
 }
 footer {
-  margin-top: 20px;
-  max-width: 250px;
-  font-size: 12px;
+  margin-top: 1.25rem;
+  max-width: 15.625rem;
+  font-size: 0.75;
 }
