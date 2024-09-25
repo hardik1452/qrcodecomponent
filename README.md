@@ -10,10 +10,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
@@ -34,10 +31,15 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Built with
 
 -Responsive Design: Uses media queries to adapt layout for different screen sizes (mobile-first).
+
 -CSS Flexbox: Centers the card on the screen using display: flex.
+
 -Box Model: Utilizes padding, margin, and box-sizing for spacing and layout consistency.
+
 -Card Structure: Divides content into a QR image section and a text section.
+
 -Typography & Spacing: Adjusts font sizes, spacing, and line-height for readability.
+
 -Shadows & Borders: Adds depth and style using box shadows and border-radius.
 
 
